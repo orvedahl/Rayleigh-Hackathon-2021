@@ -1,0 +1,8 @@
+
+Various materials from the Rayleigh Hackathon 2021 (virtual)
+
+presentation/
+	my 3 slide "talk" on what I've been doing with Rayleigh
+
+transform-library/
+	-code to do spectral transformations like Rayleigh (my "assigned" task)
